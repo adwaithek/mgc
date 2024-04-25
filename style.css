@@ -1,0 +1,218 @@
+
+p{
+  font-size: 1.29rem !important;
+  color: #7D7D7D ;
+  line-height: 1.5;
+}
+.text-sm{
+  font-size: 0.98rem !important;
+}
+
+.comforta, h2, h1{
+  font-family: "Comfortaa" !important;
+}
+
+
+
+.uk-navbar-container:not(.uk-navbar-transparent) {
+    background: #1E1E1E !Important;
+}
+.home-banner{
+    background: #060606;
+}
+
+.uk-navbar-container{
+  padding: 1rem 0 !important;
+}
+
+.uk-container {
+  max-width: 1400px !important;
+
+}
+
+ h1{
+  font-size: 5.3rem !important;
+}
+
+h2{
+  font-size: 2.36rem !important;
+  color: #000 !important;
+
+}
+
+.banner-title{
+  margin: auto  !important;
+}
+
+.nav-logo{
+  font-size: 2.4rem !important;
+  font-weight: 900;
+}
+
+.main-content-container{
+  padding-top: 4rem !important;
+
+}
+
+
+.box .index{
+  margin-right: 12px;
+}
+
+.uk-button-default{
+  background-color: #474747 !important;
+  color: #fff !important;
+  text-transform: none !important;
+  border: none !important;
+  border-radius: 8px !important;
+
+
+  padding: 0px 23px !important;
+  font-weight: 100 !important;
+  
+  font-size: 1.1rem !important;
+  line-height: 42px !important;
+
+
+
+
+}
+
+
+@media(max-width:480px){
+
+}
+
+.my-works .card-container{
+  padding: 2rem;
+}
+
+.work-card h2{
+color: #fff !important;
+}
+.work-card{
+  background-color: #ffffff17;
+  padding: 1rem;
+  color: #fff !important;
+  border-radius: 6px;
+  width: 428px;
+  border: 1px solid  #9191918c;
+}
+
+@media(min-width:980px){
+  .home-banner{
+    height: 89vh;
+  }
+
+}
+.service .bg-img{
+  height: 52vh;
+  width: 100%;
+}
+
+.service .main-content-container{
+    position: relative;
+    z-index: 99;
+} 
+
+
+.service .box{
+  background-color: #fff !important;
+  padding: 2rem;
+  border-radius: 6px;
+}
+
+.uk-margin-auto{
+  margin: auto !important;
+}
+
+
+.footer{
+   background-color: #060606;
+   border-radius: 8px;
+}
+
+.footer .uk-inline{
+  padding-left: 6rem;
+}
+
+
+.concept-design-development .concept,
+.concept-design-development .design,
+.concept-design-development .developement {
+   padding: 2rem;
+   border-radius: 10px;
+}
+
+
+
+.text-dark{
+  color: #000 !important;
+}
+
+.text-light{
+  color: #fff !important;
+}
+
+.concept-design-development .concept{
+  background-color: #060606;
+}
+
+.concept-design-development .content{
+  margin-left: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fin{
+  background-color: #1E1E1E;
+  padding:  1rem 0;
+}
